@@ -6,7 +6,6 @@ import { TODO_FILTERS } from './consts';
 import { Footer } from './components/Footer';
 import { Header } from './components/Header';
 import { TodoTitle } from './types';
- import React from 'react';
 const mockTodos = [{
   id: '1',
   title: 'todo 1',
